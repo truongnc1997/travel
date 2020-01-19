@@ -1,0 +1,10 @@
+.menu ul{
+ list-style-type: none;
+ background: grey;
+}
+.menu ul li{
+    display: inline-table;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+}
